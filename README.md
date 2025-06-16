@@ -1,6 +1,6 @@
 # 🌦️ Weather App
 
-A simple and responsive weather web application that displays real-time weather information based on city name input.
+A simple and responsive weather web application that displays real-time weather information based on city name input given by the user.
 
 ---
 
